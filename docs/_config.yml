@@ -1,0 +1,6 @@
+title: Neocities Documentation
+description: A practical guide to building a Neocities website.
+
+theme: jekyll-theme-minimal
+markdown: kramdown
+permalink: pretty
