@@ -12,4 +12,4 @@ Welcome to my documentation project.
 - [Create your first Neocities website](tutorials/tutorial/)
 - [How To Guide](docs/how-to/) 
 - [How To](docs/how-to.md)
-- [How to](docs/how-to)
+- [How tto](how-to/how-to.md)
