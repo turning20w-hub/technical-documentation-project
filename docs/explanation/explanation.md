@@ -1,3 +1,8 @@
+
+---
+layout: default
+title: Explanation 
+---
 ## Explanation 
 - Neocities has been reviving small web from Web 1.0. Many people recall it from the times of Geocities etc. 
 - Neocities also helps with custom domain at $5 
