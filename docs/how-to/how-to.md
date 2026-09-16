@@ -1,3 +1,8 @@
+
+---
+layout: default
+title: How To
+---
 # how-to/
 ### How to add an image in your html file? 
 1. Upload & Name the required image file in your Neocities dashboard. For example: chaos.jpg
