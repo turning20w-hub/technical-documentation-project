@@ -1,6 +1,4 @@
-docs/tutorials/tutorial.md
-docs/
-├── tutorials/
+
 ## We will learn to open a Neocities account today.
 1. Sign up on neocities.org by using your email and use a new password. Ensure you have noted it down to come back to
 2.  The page directs you to a learning tutorial on the way which will help you build your first page "Hello World" which you can tweak as you go.
