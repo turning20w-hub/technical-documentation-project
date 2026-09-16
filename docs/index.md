@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Neocities Documentation
+title: Technical Documentation Project 
 ---
 
 # Neocities Documentation
 
-Welcome to my Neocities documentation project.
+Welcome to my documentation project.
 
 ## Tutorials
 
