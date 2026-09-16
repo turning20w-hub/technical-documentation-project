@@ -1,4 +1,4 @@
 # technical-documentation-project
 Learnings
 
-<a href="/tutorial/">Tutorial</a>
+<a href="/tutorials/">Tutorial</a>
