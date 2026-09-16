@@ -2,4 +2,4 @@
 Learnings
 
 
-[My Tutorial](tutorials/)
+[My Tutorial](tutorials.md)
