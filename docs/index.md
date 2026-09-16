@@ -13,3 +13,5 @@ Welcome to my documentation project.
 
 ## How To
 - [How tto](how-to/how-to.md/)
+
+- [How To](how-to/how-to/)
