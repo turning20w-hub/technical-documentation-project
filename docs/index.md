@@ -10,3 +10,4 @@ Welcome to my documentation project.
 ## Tutorials
 
 - [Create your first Neocities website](tutorials/tutorial/)
+- [How To Guide](docs/how-to/) 
